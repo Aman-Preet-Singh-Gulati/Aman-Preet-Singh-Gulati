@@ -14,3 +14,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aman-Preet-Singh-Gulati&theme=dark)
 <!--</details>-->
 <!-- end statics fun section -->
+[![Profile views](http://hits.dwyl.com/Aman-Preet-Singh-Gulati/Aman-Preet-Singh-Gulati.svg)](http://hits.dwyl.com/Aman-Preet-Singh-Gulati/Aman-Preet-Singh-Gulati) 
+
