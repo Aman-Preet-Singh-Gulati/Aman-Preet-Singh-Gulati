@@ -16,3 +16,12 @@
 <!-- end statics fun section -->
 [![Profile views](http://hits.dwyl.com/Aman-Preet-Singh-Gulati/Aman-Preet-Singh-Gulati.svg)](http://hits.dwyl.com/Aman-Preet-Singh-Gulati/Aman-Preet-Singh-Gulati) 
 
+<a href="https://github.com/Aman-Preet-Singh-Gulati/Covid-19-Map" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Preet-Singh-Gulati&repo=COVID-19-Map&theme=dracula" />
+</a>
+<a href="https://github.com/Aman-Preet-Singh-Gulati/Covid-19-Detector" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-Preet-Singh-Gulati&repo=Covid-19-Detector&theme=dracula" />
+</a>
+
+### Show some ❤️ by starring some of the repositories!
+
