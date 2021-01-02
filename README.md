@@ -11,7 +11,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aman-Preet-Singh-Gulati&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=Aman-Preet-Singh-Gulati&theme=dark)</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aman-Preet-Singh-Gulati&theme=dark)
 <!--</details>-->
 <!-- end statics fun section -->
 [![Profile views](http://hits.dwyl.com/Aman-Preet-Singh-Gulati/Aman-Preet-Singh-Gulati.svg)](http://hits.dwyl.com/Aman-Preet-Singh-Gulati/Aman-Preet-Singh-Gulati) 
